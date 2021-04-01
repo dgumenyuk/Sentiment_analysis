@@ -1,0 +1,1437 @@
+{
+	"1": {
+		"id": "124695551570126",
+		"sentiment": "positive",
+		"score": "0.12878787878787878"
+	},
+	"2": {
+		"id": "124695551523576",
+		"sentiment": "positive",
+		"score": "0.13636363636363635"
+	},
+	"3": {
+		"id": "124695551425848",
+		"sentiment": "positive",
+		"score": "0.5"
+	},
+	"4": {
+		"id": "124695551121336",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"5": {
+		"id": "124695550857930",
+		"sentiment": "positive",
+		"score": "0.13636363636363635"
+	},
+	"6": {
+		"id": "124695550774894",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"7": {
+		"id": "124695550640254",
+		"sentiment": "positive",
+		"score": "0.15000000000000002"
+	},
+	"8": {
+		"id": "124695550583616",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"9": {
+		"id": "124695549138254",
+		"sentiment": "positive",
+		"score": "0.25"
+	},
+	"10": {
+		"id": "124695549016634",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"11": {
+		"id": "124695548836268",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"12": {
+		"id": "124695548330452",
+		"sentiment": "positive",
+		"score": "0.15"
+	},
+	"13": {
+		"id": "124695548225992",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"14": {
+		"id": "124695548033486",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"15": {
+		"id": "124695547978130",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"16": {
+		"id": "124695547625392",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"17": {
+		"id": "124695547473958",
+		"sentiment": "negative",
+		"score": "0.05952380952380953"
+	},
+	"18": {
+		"id": "124695547426982",
+		"sentiment": "positive",
+		"score": "0.11818181818181818"
+	},
+	"19": {
+		"id": "124695547323802",
+		"sentiment": "positive",
+		"score": "0.13636363636363635"
+	},
+	"20": {
+		"id": "124695547320458",
+		"sentiment": "positive",
+		"score": "0.09999999999999999"
+	},
+	"21": {
+		"id": "124695547037750",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"22": {
+		"id": "124695546992040",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"23": {
+		"id": "124695546642644",
+		"sentiment": "positive",
+		"score": "0.3"
+	},
+	"24": {
+		"id": "124695546547456",
+		"sentiment": "positive",
+		"score": "0.2"
+	},
+	"25": {
+		"id": "124695546329350",
+		"sentiment": "positive",
+		"score": "0.5"
+	},
+	"26": {
+		"id": "124695546002596",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"27": {
+		"id": "124695545914108",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"28": {
+		"id": "124695545852452",
+		"sentiment": "positive",
+		"score": "0.45"
+	},
+	"29": {
+		"id": "124695545785768",
+		"sentiment": "positive",
+		"score": "0.4"
+	},
+	"30": {
+		"id": "124695545662438",
+		"sentiment": "negative",
+		"score": "0.07500000000000001"
+	},
+	"31": {
+		"id": "124695544327828",
+		"sentiment": "negative",
+		"score": "0.25"
+	},
+	"32": {
+		"id": "124695544262814",
+		"sentiment": "positive",
+		"score": "0.4"
+	},
+	"33": {
+		"id": "124695544141580",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"34": {
+		"id": "124695544093784",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"35": {
+		"id": "124695544066502",
+		"sentiment": "positive",
+		"score": "0.13636363636363635"
+	},
+	"36": {
+		"id": "124695543949072",
+		"sentiment": "positive",
+		"score": "0.13636363636363635"
+	},
+	"37": {
+		"id": "124695543875672",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"38": {
+		"id": "124695543507422",
+		"sentiment": "negative",
+		"score": "0.205"
+	},
+	"39": {
+		"id": "124695543475128",
+		"sentiment": "negative",
+		"score": "0.025"
+	},
+	"40": {
+		"id": "124695542905938",
+		"sentiment": "negative",
+		"score": "0.16666666666666666"
+	},
+	"41": {
+		"id": "124695542883304",
+		"sentiment": "positive",
+		"score": "0.4166666666666667"
+	},
+	"42": {
+		"id": "124695542672326",
+		"sentiment": "positive",
+		"score": "0.1"
+	},
+	"43": {
+		"id": "124695542652198",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"44": {
+		"id": "124695542411444",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"45": {
+		"id": "124695542247016",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"46": {
+		"id": "124695542104002",
+		"sentiment": "positive",
+		"score": "0.13636363636363635"
+	},
+	"47": {
+		"id": "124695541872484",
+		"sentiment": "positive",
+		"score": "0.45000000000000007"
+	},
+	"48": {
+		"id": "124695541869128",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"49": {
+		"id": "124695541841444",
+		"sentiment": "positive",
+		"score": "0.6"
+	},
+	"50": {
+		"id": "124695541501706",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"51": {
+		"id": "124695541226538",
+		"sentiment": "positive",
+		"score": "0.45"
+	},
+	"52": {
+		"id": "124695540321008",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"53": {
+		"id": "124695540285340",
+		"sentiment": "positive",
+		"score": "0.3"
+	},
+	"54": {
+		"id": "124697557867194",
+		"sentiment": "positive",
+		"score": "0.125"
+	},
+	"55": {
+		"id": "124697557707810",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"56": {
+		"id": "124697557563950",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"57": {
+		"id": "124697557184364",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"58": {
+		"id": "124697557060654",
+		"sentiment": "negative",
+		"score": "0.4"
+	},
+	"59": {
+		"id": "124697556953280",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"60": {
+		"id": "124697556728882",
+		"sentiment": "positive",
+		"score": "0.25"
+	},
+	"61": {
+		"id": "124697556664280",
+		"sentiment": "negative",
+		"score": "0.2"
+	},
+	"62": {
+		"id": "124697556413052",
+		"sentiment": "negative",
+		"score": "0.15555555555555559"
+	},
+	"63": {
+		"id": "124697556350556",
+		"sentiment": "negative",
+		"score": "0.16666666666666666"
+	},
+	"64": {
+		"id": "124697556282168",
+		"sentiment": "negative",
+		"score": "0.30833333333333335"
+	},
+	"65": {
+		"id": "124697556266244",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"66": {
+		"id": "124697555982276",
+		"sentiment": "positive",
+		"score": "0.08333333333333334"
+	},
+	"67": {
+		"id": "124697555796468",
+		"sentiment": "positive",
+		"score": "0.7"
+	},
+	"68": {
+		"id": "124697555387538",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"69": {
+		"id": "124697548753414",
+		"sentiment": "positive",
+		"score": "0.07500000000000001"
+	},
+	"70": {
+		"id": "124697555335936",
+		"sentiment": "negative",
+		"score": "0.0625"
+	},
+	"71": {
+		"id": "124697555157690",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"72": {
+		"id": "124697554822992",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"73": {
+		"id": "124697554387600",
+		"sentiment": "positive",
+		"score": "0.2119047619047619"
+	},
+	"74": {
+		"id": "124697554227802",
+		"sentiment": "positive",
+		"score": "0.057142857142857134"
+	},
+	"75": {
+		"id": "124697553844858",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"76": {
+		"id": "124697553841086",
+		"sentiment": "positive",
+		"score": "0.20681818181818182"
+	},
+	"77": {
+		"id": "124697553691368",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"78": {
+		"id": "124697553651940",
+		"sentiment": "positive",
+		"score": "0.2333333333333333"
+	},
+	"79": {
+		"id": "124697553288708",
+		"sentiment": "positive",
+		"score": "0.4"
+	},
+	"80": {
+		"id": "124697552676326",
+		"sentiment": "negative",
+		"score": "0.06666666666666667"
+	},
+	"81": {
+		"id": "124697552392790",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"82": {
+		"id": "124697552231732",
+		"sentiment": "negative",
+		"score": "0.14166666666666666"
+	},
+	"83": {
+		"id": "124697552222504",
+		"sentiment": "positive",
+		"score": "0.12121212121212122"
+	},
+	"84": {
+		"id": "124697552110948",
+		"sentiment": "positive",
+		"score": "0.125"
+	},
+	"85": {
+		"id": "124697551496472",
+		"sentiment": "positive",
+		"score": "0.006666666666666666"
+	},
+	"86": {
+		"id": "124697551424764",
+		"sentiment": "positive",
+		"score": "0.196969696969697"
+	},
+	"87": {
+		"id": "124697551212516",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"88": {
+		"id": "124697550757452",
+		"sentiment": "positive",
+		"score": "0.041666666666666664"
+	},
+	"89": {
+		"id": "124697550499062",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"90": {
+		"id": "124697550432790",
+		"sentiment": "positive",
+		"score": "0.24444444444444444"
+	},
+	"91": {
+		"id": "124697550318710",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"92": {
+		"id": "124697549972278",
+		"sentiment": "positive",
+		"score": "0.1875"
+	},
+	"93": {
+		"id": "124697549761284",
+		"sentiment": "negative",
+		"score": "0.19523809523809524"
+	},
+	"94": {
+		"id": "124697549483624",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"95": {
+		"id": "124697549307464",
+		"sentiment": "positive",
+		"score": "0.2681818181818182"
+	},
+	"96": {
+		"id": "124697549257970",
+		"sentiment": "positive",
+		"score": "0.2"
+	},
+	"97": {
+		"id": "124697549146420",
+		"sentiment": "positive",
+		"score": "0.2857142857142857"
+	},
+	"98": {
+		"id": "124697549072594",
+		"sentiment": "negative",
+		"score": "0.12222222222222223"
+	},
+	"99": {
+		"id": "124697548944236",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"100": {
+		"id": "124697548815064",
+		"sentiment": "positive",
+		"score": "0.325"
+	},
+	"101": {
+		"id": "120965280637992",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"102": {
+		"id": "124697548638888",
+		"sentiment": "positive",
+		"score": "0.022222222222222213"
+	},
+	"103": {
+		"id": "124697548441776",
+		"sentiment": "negative",
+		"score": "0.7"
+	},
+	"104": {
+		"id": "121173758995646",
+		"sentiment": "positive",
+		"score": "0.08333333333333333"
+	},
+	"105": {
+		"id": "121172311576964",
+		"sentiment": "positive",
+		"score": "0.2"
+	},
+	"106": {
+		"id": "121168465476552",
+		"sentiment": "positive",
+		"score": "0.14444444444444446"
+	},
+	"107": {
+		"id": "121163409508576",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"108": {
+		"id": "121161418199418",
+		"sentiment": "positive",
+		"score": "0.3333333333333333"
+	},
+	"109": {
+		"id": "121158309893842",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"110": {
+		"id": "121148242960680",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"111": {
+		"id": "121137873313680",
+		"sentiment": "positive",
+		"score": "0.7"
+	},
+	"112": {
+		"id": "121137722767106",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"113": {
+		"id": "121136034998052",
+		"sentiment": "positive",
+		"score": "0.3333333333333333"
+	},
+	"114": {
+		"id": "121128146319224",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"115": {
+		"id": "121116250509700",
+		"sentiment": "positive",
+		"score": "0.09"
+	},
+	"116": {
+		"id": "121113369751404",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"117": {
+		"id": "121113145013048",
+		"sentiment": "positive",
+		"score": "0.25"
+	},
+	"118": {
+		"id": "121111238472464",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"119": {
+		"id": "121104542989652",
+		"sentiment": "positive",
+		"score": "0.06666666666666667"
+	},
+	"120": {
+		"id": "121097748396262",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"121": {
+		"id": "121097134484800",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"122": {
+		"id": "121095613307612",
+		"sentiment": "negative",
+		"score": "0.2"
+	},
+	"123": {
+		"id": "121093744564000",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"124": {
+		"id": "121093307965034",
+		"sentiment": "negative",
+		"score": "0.5"
+	},
+	"125": {
+		"id": "121082662177664",
+		"sentiment": "positive",
+		"score": "0.7"
+	},
+	"126": {
+		"id": "121074360875360",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"127": {
+		"id": "121066771422790",
+		"sentiment": "negative",
+		"score": "0.8"
+	},
+	"128": {
+		"id": "121065967718210",
+		"sentiment": "positive",
+		"score": "0.7"
+	},
+	"129": {
+		"id": "121053930012060",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"130": {
+		"id": "121043266465160",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"131": {
+		"id": "121035924659396",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"132": {
+		"id": "121026393190790",
+		"sentiment": "positive",
+		"score": "0.13333333333333333"
+	},
+	"133": {
+		"id": "121025085377426",
+		"sentiment": "positive",
+		"score": "0.5"
+	},
+	"134": {
+		"id": "121024782820894",
+		"sentiment": "positive",
+		"score": "0.036761904761904766"
+	},
+	"135": {
+		"id": "121020757870324",
+		"sentiment": "negative",
+		"score": "0.288"
+	},
+	"136": {
+		"id": "120997053928194",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"137": {
+		"id": "120978093710750",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"138": {
+		"id": "120971007444638",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"139": {
+		"id": "120966101027080",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"140": {
+		"id": "120966073922662",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"141": {
+		"id": "120952491584360",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"142": {
+		"id": "120933495144910",
+		"sentiment": "positive",
+		"score": "0.2"
+	},
+	"143": {
+		"id": "120923645967012",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"144": {
+		"id": "120914801672216",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"145": {
+		"id": "120910219148888",
+		"sentiment": "negative",
+		"score": "0.21607142857142858"
+	},
+	"146": {
+		"id": "120909742184378",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"147": {
+		"id": "120906903255872",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"148": {
+		"id": "120895971939580",
+		"sentiment": "negative",
+		"score": "1.0"
+	},
+	"149": {
+		"id": "120865891948216",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"150": {
+		"id": "124695551726161",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"151": {
+		"id": "124695551191381",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"152": {
+		"id": "124695550829419",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"153": {
+		"id": "124695550651999",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"154": {
+		"id": "124695550644427",
+		"sentiment": "positive",
+		"score": "0.12045454545454545"
+	},
+	"155": {
+		"id": "124695550589083",
+		"sentiment": "negative",
+		"score": "0.125"
+	},
+	"156": {
+		"id": "124695550541249",
+		"sentiment": "positive",
+		"score": "0.05333333333333334"
+	},
+	"157": {
+		"id": "124695550449409",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"158": {
+		"id": "124695550397819",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"159": {
+		"id": "124695550390695",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"160": {
+		"id": "124695550177625",
+		"sentiment": "positive",
+		"score": "0.5"
+	},
+	"161": {
+		"id": "124695550176367",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"162": {
+		"id": "124695550176355",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"163": {
+		"id": "124695550104225",
+		"sentiment": "negative",
+		"score": "0.00800865800865799"
+	},
+	"164": {
+		"id": "124695549690225",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"165": {
+		"id": "124695548802725",
+		"sentiment": "positive",
+		"score": "0.22727272727272727"
+	},
+	"166": {
+		"id": "124695548572463",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"167": {
+		"id": "124695548538903",
+		"sentiment": "negative",
+		"score": "0.15555555555555559"
+	},
+	"168": {
+		"id": "124695548535555",
+		"sentiment": "positive",
+		"score": "0.016666666666666666"
+	},
+	"169": {
+		"id": "124695548528825",
+		"sentiment": "positive",
+		"score": "0.04924242424242423"
+	},
+	"170": {
+		"id": "124695548493193",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"171": {
+		"id": "124695548298989",
+		"sentiment": "negative",
+		"score": "0.07500000000000001"
+	},
+	"172": {
+		"id": "124695547905989",
+		"sentiment": "positive",
+		"score": "0.13636363636363635"
+	},
+	"173": {
+		"id": "124695547837623",
+		"sentiment": "negative",
+		"score": "0.07544642857142858"
+	},
+	"174": {
+		"id": "124695547746599",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"175": {
+		"id": "124695547305359",
+		"sentiment": "positive",
+		"score": "0.275"
+	},
+	"176": {
+		"id": "124695547253349",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"177": {
+		"id": "124695547155191",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"178": {
+		"id": "124695547030219",
+		"sentiment": "positive",
+		"score": "0.13636363636363635"
+	},
+	"179": {
+		"id": "124695546978191",
+		"sentiment": "negative",
+		"score": "0.36666666666666664"
+	},
+	"180": {
+		"id": "124695546091113",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"181": {
+		"id": "124695545550447",
+		"sentiment": "positive",
+		"score": "0.12916666666666665"
+	},
+	"182": {
+		"id": "124695545013159",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"183": {
+		"id": "124695544795487",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"184": {
+		"id": "124695544438977",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"185": {
+		"id": "124695543705391",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"186": {
+		"id": "124695542875335",
+		"sentiment": "positive",
+		"score": "0.4"
+	},
+	"187": {
+		"id": "124695542562867",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"188": {
+		"id": "124695542186199",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"189": {
+		"id": "124695541934121",
+		"sentiment": "positive",
+		"score": "0.13333333333333333"
+	},
+	"190": {
+		"id": "124695541382581",
+		"sentiment": "positive",
+		"score": "0.26"
+	},
+	"191": {
+		"id": "124695541132597",
+		"sentiment": "positive",
+		"score": "0.1"
+	},
+	"192": {
+		"id": "124695540771457",
+		"sentiment": "negative",
+		"score": "0.016666666666666666"
+	},
+	"193": {
+		"id": "124695540738333",
+		"sentiment": "positive",
+		"score": "0.625"
+	},
+	"194": {
+		"id": "124695540481651",
+		"sentiment": "positive",
+		"score": "0.4"
+	},
+	"195": {
+		"id": "124695540468219",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"196": {
+		"id": "124695540252217",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"197": {
+		"id": "124697558163333",
+		"sentiment": "positive",
+		"score": "0.13636363636363635"
+	},
+	"198": {
+		"id": "124697558160399",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"199": {
+		"id": "124697557627301",
+		"sentiment": "negative",
+		"score": "0.0625"
+	},
+	"200": {
+		"id": "124697557241005",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"201": {
+		"id": "124697556994365",
+		"sentiment": "negative",
+		"score": "0.05000000000000002"
+	},
+	"202": {
+		"id": "124697556872309",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"203": {
+		"id": "124697556606389",
+		"sentiment": "positive",
+		"score": "0.8"
+	},
+	"204": {
+		"id": "124697556526711",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"205": {
+		"id": "124697556468813",
+		"sentiment": "negative",
+		"score": "0.03333333333333333"
+	},
+	"206": {
+		"id": "124697556439889",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"207": {
+		"id": "124697556357249",
+		"sentiment": "positive",
+		"score": "0.35"
+	},
+	"208": {
+		"id": "124697555826269",
+		"sentiment": "negative",
+		"score": "0.0625"
+	},
+	"209": {
+		"id": "124697555193767",
+		"sentiment": "positive",
+		"score": "0.5"
+	},
+	"210": {
+		"id": "124697554803257",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"211": {
+		"id": "124697554479879",
+		"sentiment": "negative",
+		"score": "0.041666666666666664"
+	},
+	"212": {
+		"id": "124697554151063",
+		"sentiment": "positive",
+		"score": "0.05833333333333333"
+	},
+	"213": {
+		"id": "124697554099893",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"214": {
+		"id": "124697553868777",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"215": {
+		"id": "124697553800839",
+		"sentiment": "positive",
+		"score": "0.25"
+	},
+	"216": {
+		"id": "124697553768113",
+		"sentiment": "positive",
+		"score": "0.1"
+	},
+	"217": {
+		"id": "124697553125975",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"218": {
+		"id": "124697553125539",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"219": {
+		"id": "124697553088629",
+		"sentiment": "positive",
+		"score": "0.6"
+	},
+	"220": {
+		"id": "124697552922545",
+		"sentiment": "positive",
+		"score": "0.07424242424242423"
+	},
+	"221": {
+		"id": "124697552818527",
+		"sentiment": "positive",
+		"score": "1.0"
+	},
+	"222": {
+		"id": "124697552480035",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"223": {
+		"id": "124697552345835",
+		"sentiment": "positive",
+		"score": "0.26666666666666666"
+	},
+	"224": {
+		"id": "124697552126047",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"225": {
+		"id": "124697552081169",
+		"sentiment": "negative",
+		"score": "0.15555555555555559"
+	},
+	"226": {
+		"id": "124697552053051",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"227": {
+		"id": "124697551983011",
+		"sentiment": "negative",
+		"score": "0.35"
+	},
+	"228": {
+		"id": "124697551701569",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"229": {
+		"id": "124697551572389",
+		"sentiment": "negative",
+		"score": "0.3888888888888889"
+	},
+	"230": {
+		"id": "124697551223853",
+		"sentiment": "positive",
+		"score": "0.35"
+	},
+	"231": {
+		"id": "124697551042235",
+		"sentiment": "positive",
+		"score": "0.6000000000000001"
+	},
+	"232": {
+		"id": "124697550922271",
+		"sentiment": "positive",
+		"score": "0.03333333333333333"
+	},
+	"233": {
+		"id": "124697550572047",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"234": {
+		"id": "124697550551071",
+		"sentiment": "positive",
+		"score": "0.3096153846153846"
+	},
+	"235": {
+		"id": "124697550541423",
+		"sentiment": "positive",
+		"score": "0.25"
+	},
+	"236": {
+		"id": "124697550457973",
+		"sentiment": "positive",
+		"score": "0.2122727272727273"
+	},
+	"237": {
+		"id": "124697550427763",
+		"sentiment": "positive",
+		"score": "0.7"
+	},
+	"238": {
+		"id": "124697550388351",
+		"sentiment": "negative",
+		"score": "0.6999999999999998"
+	},
+	"239": {
+		"id": "124697550235261",
+		"sentiment": "positive",
+		"score": "0.057142857142857134"
+	},
+	"240": {
+		"id": "124697550225615",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"241": {
+		"id": "124697550112351",
+		"sentiment": "negative",
+		"score": "0.25"
+	},
+	"242": {
+		"id": "124697549993667",
+		"sentiment": "positive",
+		"score": "0.7333333333333334"
+	},
+	"243": {
+		"id": "124697549761299",
+		"sentiment": "negative",
+		"score": "0.3"
+	},
+	"244": {
+		"id": "124697549694195",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"245": {
+		"id": "124697549354017",
+		"sentiment": "positive",
+		"score": "0.18068181818181817"
+	},
+	"246": {
+		"id": "124697549032749",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"247": {
+		"id": "124697548455197",
+		"sentiment": "negative",
+		"score": "0.30476190476190473"
+	},
+	"248": {
+		"id": "121173636719513",
+		"sentiment": "negative",
+		"score": "0.09777777777777778"
+	},
+	"249": {
+		"id": "121172795960779",
+		"sentiment": "negative",
+		"score": "0.4"
+	},
+	"250": {
+		"id": "121171397302159",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"251": {
+		"id": "121166460273743",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"252": {
+		"id": "121136573571431",
+		"sentiment": "negative",
+		"score": "0.2"
+	},
+	"253": {
+		"id": "121116627487453",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"254": {
+		"id": "121113209495017",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"255": {
+		"id": "121107472478205",
+		"sentiment": "positive",
+		"score": "0.13636363636363635"
+	},
+	"256": {
+		"id": "121093744956583",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"257": {
+		"id": "121093744745191",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"258": {
+		"id": "121093744650405",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"259": {
+		"id": "121090854949425",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"260": {
+		"id": "121077080665909",
+		"sentiment": "negative",
+		"score": "0.025446428571428564"
+	},
+	"261": {
+		"id": "121066208377729",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"262": {
+		"id": "121036060952459",
+		"sentiment": "negative",
+		"score": "0.3499999999999999"
+	},
+	"263": {
+		"id": "121031998715333",
+		"sentiment": "positive",
+		"score": "0.04583333333333332"
+	},
+	"264": {
+		"id": "121031495006285",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"265": {
+		"id": "121030102462103",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"266": {
+		"id": "121029885498329",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"267": {
+		"id": "121029518651477",
+		"sentiment": "negative",
+		"score": "0.2"
+	},
+	"268": {
+		"id": "121029141663675",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"269": {
+		"id": "121026506406385",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"270": {
+		"id": "121026365143479",
+		"sentiment": "positive",
+		"score": "0.13333333333333333"
+	},
+	"271": {
+		"id": "121026359427069",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"272": {
+		"id": "121011755638981",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"273": {
+		"id": "121011147100439",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"274": {
+		"id": "120993345243655",
+		"sentiment": "positive",
+		"score": "0.10000000000000003"
+	},
+	"275": {
+		"id": "120991224498673",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"276": {
+		"id": "120967917566721",
+		"sentiment": "positive",
+		"score": "0.024999999999999994"
+	},
+	"277": {
+		"id": "120959504843583",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"278": {
+		"id": "120951838447341",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"279": {
+		"id": "120950851385405",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"280": {
+		"id": "120949025933287",
+		"sentiment": "negative",
+		"score": "0.5"
+	},
+	"281": {
+		"id": "120947731981707",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"282": {
+		"id": "120934846638989",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"283": {
+		"id": "120926263033611",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"284": {
+		"id": "120895424257849",
+		"sentiment": "positive",
+		"score": "0.2857142857142857"
+	},
+	"285": {
+		"id": "120895218417341",
+		"sentiment": "negative",
+		"score": "0.16666666666666666"
+	},
+	"286": {
+		"id": "120887274085539",
+		"sentiment": "positive",
+		"score": "0.0"
+	},
+	"287": {
+		"id": "120874148667579",
+		"sentiment": "positive",
+		"score": "0.0"
+	}
+}

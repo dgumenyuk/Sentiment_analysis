@@ -1,0 +1,11 @@
+1. Use bash terminal to connect to the database.
+2. Use the following command and password to connect:
+psql -h postgres.cmf5w5wgnvbd.us-east-1.rds.amazonaws.com -p 5432 -U postgres
+password: fWTKbeC3EtgSMy6jLQzg
+3. In the database 4 schemas are created proxy_even (for storing tweets with even ids), proxy_odd (for storing tweets with odd id), sharding_a2020 (for storing tweets from 2020) and sharding_b2020 (for storing tweets before 2020).
+4. Each schema contains one table, called 'table1'. To query the table of one of the shemas use one of the commands:
+SELECT * FROM shard_a2020.table1;
+SELECT * FROM shard_b2020.table1;
+SELECT * FROM proxy_odd.table1;
+SELECT * FROM proxy_even.table1;
+
