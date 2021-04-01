@@ -14,9 +14,9 @@ aws_secret_key = ''  # Change here, set your s3 secret access key
 region = 'us-east-1'
 s3_bucket = "" # provide s3 bucket name
 #Set the rds credentials
-rds_host = 'postgres.cmf5w5wgnvbd.us-east-1.rds.amazonaws.com'
+rds_host = '***************'
 name = 'postgres'
-password = 'fWTKbeC3EtgSMy6jLQzg'
+password = '**************'
 db_name = 'postgres'
 
 app = Flask(__name__)
